@@ -1,4 +1,4 @@
-<h2>👋 Hello dear visitor on my Git-page. 👋 </h2>
+<h2>👋 Hello dear visitor to my Git-page. 👋 </h2>
 ⚡⚡ I turn dreams into reality.⚡⚡
 <br>
 Like coffe, badminton and coding 😎
