@@ -3,7 +3,7 @@
 <br>
 Like coffe, badminton and coding :smile:
 <br>
-Know:c++,Java,HTML,CSS
+Know: C++,Java,HTML,CSS
 <h2> 🤔 About me </h2>
 👀I'm Nikita and I'm 18 years old. I started actively learning programming since 2019.👀
 
