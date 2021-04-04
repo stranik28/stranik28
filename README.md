@@ -1,6 +1,6 @@
 <h2>👋 Hello dear visitor on my Git-page. 👋 </h2>
 👀I'm Nikita and I'm 18 years old. I started actively learning programming since 2019.👀
-- ⚡⚡And I turn dreams into reality.⚡⚡
+-<br> ⚡⚡And I turn dreams into reality.⚡⚡
 
 <!---
 - 👋 Hi, I’m @stranik28
