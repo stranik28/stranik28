@@ -8,7 +8,7 @@ Know: C++,Java,HTML,CSS
 👀I'm Nikita and I'm 18 years old. I started actively learning programming since 2019.👀
 
 <h2> My contacts :speech_balloon: </h2>
-You can contact me there: <a href ="https://t.me/reaL_IdpNik"> telegram</a> , <a href ="http://www.linkedin.com/in/nikita-plokhotnyuk-2a53b6209"> LinkedIn</a>.
+You can contact me there: <a href ="https://t.me/reaL_IdpNik"> Telegram</a> , <a href ="http://www.linkedin.com/in/nikita-plokhotnyuk-2a53b6209"> LinkedIn</a>.
 
 <!---
 - 👋 Hi, I’m @stranik28
