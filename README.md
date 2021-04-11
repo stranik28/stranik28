@@ -1,14 +1,17 @@
-<h2>👋 Hello dear visitor to my Git-page. 👋 </h2>
+## 👋 Hello dear visitor to my Git-page. 👋 <br>
 ⚡⚡ I turn dreams into reality.⚡⚡
 <br>
 Like coffe, badminton and coding 😎
 <br>
 Know: C++,Java,HTML,CSS
-<h2> About me 🤔</h2>
+## About me 🤔 <br>
 I'm Nikita and I'm 18 years old and I learning programming since 2019.
 
-<h2> My contacts :speech_balloon: </h2>
+## My contacts :speech_balloon: <br>
 You can contact me there: <a href ="https://t.me/reaL_IdpNik"> Telegram</a> , <a href ="http://www.linkedin.com/in/nikita-plokhotnyuk-2a53b6209"> LinkedIn</a>.
+
+## My GitHub stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=stranik28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👋 Hi, I’m @stranik28
