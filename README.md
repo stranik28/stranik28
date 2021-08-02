@@ -5,7 +5,7 @@ Like coffe, badminton and coding 😎
 <br>
 Know: C++,Java,HTML,CSS
 ## About me 🤔 <br>
-I'm Nikita and I'm 18 years old and I learning programming since 2019.
+I'm Nikita and I'm 19 years old and I learning programming since 2019.
 
 ## My contacts :speech_balloon: <br>
 You can contact me there: <a href ="https://t.me/reaL_IdpNik"> Telegram</a> , <a href ="http://www.linkedin.com/in/nikita-plokhotnyuk-2a53b6209"> LinkedIn</a>.
