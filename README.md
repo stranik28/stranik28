@@ -3,7 +3,7 @@
 <br>
 Like coffe, badminton and coding 😎
 <br>
-Know: C++,Java,HTML,CSS,Python,SQL
+Know: C++,Java,Rust,Python,HTML+CSS,SQL
 ## About me 🤔 <br>
 I'm Nikita and I'm 19 years old and I learning programming since 2019.
 
