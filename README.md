@@ -3,7 +3,9 @@
 <br>
 Like coffe, badminton and coding 😎
 <br>
-Know: C++,Java,Rust,Python,HTML+CSS,SQL
+Know: C++,Java,Rust,Python,HTML+CSS,SQL, Docker
+My stack:
+Python, FastAPI,SQLAlchemy, postgresql, redis, celery, Docker.
 ## About me 🤔 <br>
 I'm Nikita and I'm 20 years old and I learning programming since 2019.
 
